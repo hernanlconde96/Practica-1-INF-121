@@ -1,2 +1,7 @@
 # Practica-1-INF-121
-primera practica de auxiliatura
+
+## HERNAN LEONEL CONDE AJATA
+
+### CI: 4939770  LP
+
+### RU:1707525
